@@ -1,0 +1,195 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.login-button {
+    background-color: #F84646;
+    color: white;
+    width: 78px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 35px 33px 0px 0px;
+    transition: all 0.4s;
+}
+.login-button:hover {
+    transform: scale(1.3);
+}
+.burger {
+    margin: 39px 0px 0px 20px;
+}
+.text {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 335px;
+}
+.header-background {
+    height: 601px;
+    background-image: url('../assets/images/Rectangle\ 1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:63%;
+}
+.paragraph {
+    font-size: 1.3rem;
+    margin-top: 130px;
+    line-height: 36px; 
+}
+.title {
+    font-size: 2.6rem;
+    font-weight: 800;
+    margin-top: 30px;
+}
+.text-box {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 334px;
+}
+.lorem-ipsum {
+    font-weight: 800;
+    font-size: 2.2rem;
+    margin-top: 60px;
+}
+.paragraph-2 {
+    font-size: 0.75rem;
+}
+.lorem {
+    font-weight: 800;
+    font-size: 2.2rem;
+}
+.text-box-lorem {
+    text-align: center;
+}
+.text-box-lorem-1 {
+    text-align: center;
+}
+.text-box-lorem-2 {
+    text-align: center;
+}
+.text-box-lorem-3 {
+    text-align: center;
+}
+.text-icon {
+    margin: 0 auto;
+    max-width: 298px;
+}
+.img-icon-1 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/pinkcircle.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.img-icon-2 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/purplecircle.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.img-icon-3 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/redcircle.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.img-icon-4 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/bluecircle.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.img-icon-5 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/yellowcircle.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.img-icon-6 {
+    margin-top: 80px;
+    background-image: url('../assets/icons/lightbluecircle.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.lorem-2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.lorem-paragraph-2 {
+    font-size: 0,8rem;
+    margin-top: 61px;
+}
+.section-1 {
+    text-align: center;
+}
+.section-image {
+    margin-top: 90px;
+    border-radius: 8px;
+}
+.add-button {
+    color: white;
+    background-color: #F84646;
+    border-radius: 8px;
+    width: 338px;
+    height: 108px;
+    margin-top: 40px;
+}
+.section-image-2 {
+    margin-top: 44px;
+    border-radius: 8px;
+}
+.add-button-2 {
+    color: white;
+    background-color: #F84646;
+    border-radius: 8px;
+    width: 338px;
+    height: 48px;
+    margin-top: 40px;
+}
+.section-2 {
+    text-align: center;
+}
+footer {
+    background-color: #F84646;
+    height: 1340px;
+    margin-top: 45px;
+    color: white;
+}
+.list-title-first {
+    font-size: 1rem;
+    font-weight: 700;
+}
+.list-title {
+    font-size: 1rem;
+    font-weight: 700;
+}
+.inside-footer {
+    margin-left: 20px;
+}
+.list ul {
+    display: grid;
+    grid-gap: 34px;
+}
+.list-1 ul {
+    display: grid;
+    grid-gap: 34px;
+}
+.list {
+    margin-top: 49px;
+}
+
+.first-li {
+    margin-top: 24px;
+}
+.inside-footer {
+    display: inline-block;
+    margin-top: 80px;
+}
+.footer-end {
+ margin-top: 124px;
+}
+.header ul {
+    display: none;
+}
+.section-text-box {
+    margin: 0 auto;
+    max-width: 336px;
+}
